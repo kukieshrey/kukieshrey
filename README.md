@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreya!
 - 👀 I’m interested in learning new things about software engineering :)
-- 🌱 I’m currently studying Computer Science Engineering at VIT University.
+- 🌱 I’m currently pursuing my bachelor's degree in Computer Science Engineering at VIT University.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
